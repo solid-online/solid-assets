@@ -50,7 +50,7 @@
             "token": "terra1jtdseyt9rxtjnv0am052g03h305tl5d4sjplvhj6cx20nac7agrs3y52l8",
             "stake": "terra1cy2lm4jeaxmamn75sxmftclfdpm5aadsyk2xym6q4nju2hs725lqeruejq",
             "custody": "terra1950mwzgaw6vyetcjs94njhwmxaqssfee978a4dehtd0tvrhawcdqwucw2n",
-            "denom":"uluna",
+            "denom":"ibc/05D299885B07905B6886F554B39346EA6761246076A1120B1950049B92B922DD",
             "precision":8
         },
         {
@@ -59,7 +59,7 @@
             "token": "terra164ye3v3pksjzl8nan9z3jd8xyhwpee7ws82l5y2gfcwqnekz9ujqts7v58",
             "stake": "terra1lz9048tzegtspy35chwq2lmlhtwz8qq4jdvpua8yslskfnpk6yfsw06090",
             "custody": "terra1xyxxg9z8eep6xkfts4sp7gper677glz0md4wd9krj4d8dllmut8q8tjjrl",
-            "denom":"uluna",
+            "denom":"ibc/BC8A77AFBD872FDC32A348D3FB10CC09277C266CFE52081DE341C7EC6752E674",
             "precision":18
         },
         {
