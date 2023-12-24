@@ -55,7 +55,7 @@
         },
         {
             "name": "wETH",
-            "icon": "https://raw.githubusercontent.com/terra-money/assets/master/icon/svg/ibc/axlWETH.svg",
+            "icon": "https://raw.githubusercontent.com/terra-money/assets/master/icon/svg/ibc/axlETH.svg",
             "token": "terra164ye3v3pksjzl8nan9z3jd8xyhwpee7ws82l5y2gfcwqnekz9ujqts7v58",
             "stake": "terra1lz9048tzegtspy35chwq2lmlhtwz8qq4jdvpua8yslskfnpk6yfsw06090",
             "custody": "terra1xyxxg9z8eep6xkfts4sp7gper677glz0md4wd9krj4d8dllmut8q8tjjrl",
