@@ -43,7 +43,7 @@
             "stake": "terra10788fkzah89xrdm27zkj5yvhj9x3494lxawzm5qq3vvxcqz2yzaqyd3enk",
             "custody": "terra18uxq2k6wpsqythpakz5n6ljnuzyehrt775zkdclrtdtv6da63gmskqn7dq",
             "precision":6
-        }
+        },
         {
             "name": "wBTC",
             "icon": "https://raw.githubusercontent.com/terra-money/assets/master/icon/svg/ibc/axlWBTC.svg",
