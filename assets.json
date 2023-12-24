@@ -1,0 +1,83 @@
+{
+    "testnet": [
+        {
+            "name": "ampLuna",
+            "icon": "https://static.coinpaprika.com/coin/ampluna-ampluna/logo.png?rev=10985843",
+            "token": "terra1xgvp6p0qml53reqdyxgcl8ttl0pkh0n2mtx2n7tzfahn6e0vca7s0g7sg6",
+            "stake": "terra1kye343r8hl7wm6f3uzynyyzl2zmcm2sqmvvzwzj7et2j5jj7rjkqa2ue88",
+            "custody": "terra1dmz7vh8pxy98zywxw22tdcpnnw6tp00munk0uzavckvcwtqds0zsw30enh",
+            "precision":6
+        },
+        {
+            "name": "wBTC",
+            "icon": "https://raw.githubusercontent.com/terra-money/assets/master/icon/svg/ibc/axlWBTC.svg",
+            "token": "terra1jtdseyt9rxtjnv0am052g03h305tl5d4sjplvhj6cx20nac7agrs3y52l8",
+            "stake": "terra1cy2lm4jeaxmamn75sxmftclfdpm5aadsyk2xym6q4nju2hs725lqeruejq",
+            "custody": "terra1950mwzgaw6vyetcjs94njhwmxaqssfee978a4dehtd0tvrhawcdqwucw2n",
+            "denom":"uluna",
+            "precision":8
+        },
+        {
+            "name": "bLuna",
+            "icon": "https://gravedigger.backbonelabs.io/boneluna.png",
+            "token": "terra1xztnx8mm7dagn4ck3dgylaqucp6h6agw83pmyc29hnplq7355trs78fkcq",
+            "stake": "terra18200wue9sjzz9c2p7thzn47kj6d7lzya3gj4xemrcvmlu8skcugq227qfr",
+            "custody": "terra1lhvqgjkpz490xaeypztzwggjgw2dxh5qjg6z0rywrfs6k7ts2yaspzfp5x",
+            "precision":6
+        },
+        {
+            "name": "LunaX",
+            "icon": "https://assets.capapult.finance/icon/LunaX.svg",
+            "token": "terra1rcj950fwfe9ewwthwt5jrknksz2ctwp7l6qqf8tjzejg85upqu6qzgpgmk",
+            "stake": "terra16mlgqr5pkadqxrdgxfwckvu9v5ja6jhq79drwt0fjlxg4f7zj6jsfj4jq8",
+            "custody": "terra1drlmnx2gftaduzy3t0dhjrlmkc2xld7sl82crzssxdu6xu6yhgksfxyfeg",
+            "precision":6
+        }
+    
+    ],
+    "mainnet": [
+        {
+            "name": "ampLuna",
+            "icon": "https://static.coinpaprika.com/coin/ampluna-ampluna/logo.png?rev=10985843",
+            "token": "terra1r6ju9f643v353n88dxaqdvkthdnclycgds2qc6kyddqpmcr9dj5sdkvu37",
+            "stake": "terra163nmjy97n7dqpdaxp6gts0xrnchn2nsg2d40wrgqnpguf0v9rvdslytfpz",
+            "custody": "terra1jksfmpavp09wwla8xffera3q7z49ef6r2jx9lu29mwvl64g34ljs7u2hln",
+            "precision":6
+        },
+        {
+            "name": "wBTC",
+            "icon": "https://raw.githubusercontent.com/terra-money/assets/master/icon/svg/ibc/axlWBTC.svg",
+            "token": "terra1jtdseyt9rxtjnv0am052g03h305tl5d4sjplvhj6cx20nac7agrs3y52l8",
+            "stake": "terra1cy2lm4jeaxmamn75sxmftclfdpm5aadsyk2xym6q4nju2hs725lqeruejq",
+            "custody": "terra1950mwzgaw6vyetcjs94njhwmxaqssfee978a4dehtd0tvrhawcdqwucw2n",
+            "denom":"uluna",
+            "precision":8
+        },
+        {
+            "name": "wETH",
+            "icon": "https://raw.githubusercontent.com/terra-money/assets/master/icon/svg/ibc/axlWETH.svg",
+            "token": "terra164ye3v3pksjzl8nan9z3jd8xyhwpee7ws82l5y2gfcwqnekz9ujqts7v58",
+            "stake": "terra1lz9048tzegtspy35chwq2lmlhtwz8qq4jdvpua8yslskfnpk6yfsw06090",
+            "custody": "terra1xyxxg9z8eep6xkfts4sp7gper677glz0md4wd9krj4d8dllmut8q8tjjrl",
+            "denom":"uluna",
+            "precision":8
+        },
+        {
+            "name": "bLuna",
+            "icon": "https://gravedigger.backbonelabs.io/boneluna.png",
+            "token": "terra17aj4ty4sz4yhgm08na8drc0v03v2jwr3waxcqrwhajj729zhl7zqnpc0ml",
+            "stake": "terra1l2nd99yze5fszmhl5svyh5fky9wm4nz4etlgnztfu4e8809gd52q04n3ea",
+            "custody": "terra1fyfrqdf58nf4fev2amrdrytq5d63njulfa7sm75c0zu4pnr693dsqlr7p9",
+            "precision":6
+        },
+
+        {
+            "name": "LunaX",
+            "icon": "https://assets.capapult.finance/icon/LunaX.svg",
+            "token": "terra14xsm2wzvu7xaf567r693vgfkhmvfs08l68h4tjj5wjgyn5ky8e2qvzyanh",
+            "stake": "terra179e90rqspswfzmhdl25tg22he0fcefwndgzc957ncx9dleduu7ms3evpuk",
+            "custody": "terra18l7vt34kfy2ycv3aej4fgq286s060n55f7uz0qyw9jpzn5gszkxsy3r7nw",
+            "precision":6
+        }
+    ]
+}
